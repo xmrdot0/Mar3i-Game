@@ -1,0 +1,4 @@
+C:\Users\Youssef\source\repos\Project\Debug\Project.exe
+C:\Users\Youssef\source\repos\Project\Debug\Project.pdb
+C:\Users\Youssef\source\repos\SP-Project\Debug\Project.exe
+C:\Users\Youssef\source\repos\SP-Project\Debug\Project.pdb

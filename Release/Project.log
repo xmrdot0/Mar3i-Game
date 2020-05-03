@@ -1,0 +1,226 @@
+﻿  Animation.cpp
+C:\Users\Youssef\source\repos\SP-Project\Animation.cpp(11,38): warning C4244: '=': conversion from 'float' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+C:\Users\Youssef\source\repos\SP-Project\Animation.cpp(12,39): warning C4244: '=': conversion from 'float' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+  Collider.cpp
+  Main.cpp
+C:\Users\Youssef\source\repos\SP-Project\Main.cpp(99,29): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Youssef\source\repos\SP-Project\Main.cpp(117,32): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Youssef\source\repos\SP-Project\Main.cpp(118,33): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Youssef\source\repos\SP-Project\Main.cpp(119,33): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Youssef\source\repos\SP-Project\Main.cpp(120,32): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Youssef\source\repos\SP-Project\Main.cpp(144,75): warning C4305: 'argument': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+C:\Users\Youssef\source\repos\SP-Project\Main.cpp(145,73): warning C4305: 'argument': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+C:\Users\Youssef\source\repos\SP-Project\Main.cpp(146,75): warning C4305: 'argument': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+C:\Users\Youssef\source\repos\SP-Project\Main.cpp(147,75): warning C4305: 'argument': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+C:\Users\Youssef\source\repos\SP-Project\Main.cpp(148,81): warning C4305: 'argument': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+C:\Users\Youssef\source\repos\SP-Project\Main.cpp(149,82): warning C4305: 'argument': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+C:\Users\Youssef\source\repos\SP-Project\Main.cpp(150,76): warning C4305: 'argument': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+C:\Users\Youssef\source\repos\SP-Project\Main.cpp(151,82): warning C4305: 'argument': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+C:\Users\Youssef\source\repos\SP-Project\Main.cpp(152,79): warning C4305: 'argument': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+C:\Users\Youssef\source\repos\SP-Project\Main.cpp(153,83): warning C4305: 'argument': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+C:\Users\Youssef\source\repos\SP-Project\Main.cpp(154,78): warning C4305: 'argument': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+C:\Users\Youssef\source\repos\SP-Project\Main.cpp(155,77): warning C4305: 'argument': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+C:\Users\Youssef\source\repos\SP-Project\Main.cpp(156,77): warning C4305: 'argument': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+C:\Users\Youssef\source\repos\SP-Project\Main.cpp(157,79): warning C4305: 'argument': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+C:\Users\Youssef\source\repos\SP-Project\Main.cpp(158,80): warning C4305: 'argument': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+C:\Users\Youssef\source\repos\SP-Project\Main.cpp(159,79): warning C4305: 'argument': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+C:\Users\Youssef\source\repos\SP-Project\Main.cpp(160,83): warning C4305: 'argument': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+C:\Users\Youssef\source\repos\SP-Project\Main.cpp(161,88): warning C4305: 'argument': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+C:\Users\Youssef\source\repos\SP-Project\Main.cpp(162,80): warning C4305: 'argument': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+C:\Users\Youssef\source\repos\SP-Project\Main.cpp(163,81): warning C4305: 'argument': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+C:\Users\Youssef\source\repos\SP-Project\Main.cpp(164,80): warning C4305: 'argument': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+C:\Users\Youssef\source\repos\SP-Project\Main.cpp(286,76): warning C4305: 'argument': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+C:\Users\Youssef\source\repos\SP-Project\Main.cpp(287,81): warning C4305: 'argument': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+C:\Users\Youssef\source\repos\SP-Project\Main.cpp(288,81): warning C4305: 'argument': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+C:\Users\Youssef\source\repos\SP-Project\Main.cpp(289,87): warning C4305: 'argument': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+C:\Users\Youssef\source\repos\SP-Project\Main.cpp(290,87): warning C4305: 'argument': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+C:\Users\Youssef\source\repos\SP-Project\Main.cpp(358,39): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Youssef\source\repos\SP-Project\Main.cpp(359,42): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Youssef\source\repos\SP-Project\Main.cpp(375,69): warning C4305: 'argument': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+C:\Users\Youssef\source\repos\SP-Project\Main.cpp(376,68): warning C4305: 'argument': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+C:\Users\Youssef\source\repos\SP-Project\Main.cpp(377,69): warning C4305: 'argument': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+C:\Users\Youssef\source\repos\SP-Project\Main.cpp(378,69): warning C4305: 'argument': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+C:\Users\Youssef\source\repos\SP-Project\Main.cpp(379,69): warning C4305: 'argument': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+C:\Users\Youssef\source\repos\SP-Project\Main.cpp(389,36): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Youssef\source\repos\SP-Project\Main.cpp(391,25): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Youssef\source\repos\SP-Project\Main.cpp(393,25): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Youssef\source\repos\SP-Project\Main.cpp(395,25): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Youssef\source\repos\SP-Project\Main.cpp(550,72): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Youssef\source\repos\SP-Project\Main.cpp(620,29): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Youssef\source\repos\SP-Project\Main.cpp(627,29): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Youssef\source\repos\SP-Project\Main.cpp(632,39): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Youssef\source\repos\SP-Project\Main.cpp(633,41): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Youssef\source\repos\SP-Project\Main.cpp(634,41): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Youssef\source\repos\SP-Project\Main.cpp(635,40): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Youssef\source\repos\SP-Project\Main.cpp(639,32): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Youssef\source\repos\SP-Project\Main.cpp(791,64): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Youssef\source\repos\SP-Project\Main.cpp(801,39): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Youssef\source\repos\SP-Project\Main.cpp(809,20): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Youssef\source\repos\SP-Project\Main.cpp(867,28): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\Youssef\source\repos\SP-Project\Main.cpp(870,28): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\Youssef\source\repos\SP-Project\Main.cpp(1136,38): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Youssef\source\repos\SP-Project\Main.cpp(1156,25): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Youssef\source\repos\SP-Project\Main.cpp(1168,25): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Youssef\source\repos\SP-Project\Main.cpp(1272,37): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Youssef\source\repos\SP-Project\Main.cpp(1278,38): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Youssef\source\repos\SP-Project\Main.cpp(1397,23): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Youssef\source\repos\SP-Project\Main.cpp(1399,26): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Youssef\source\repos\SP-Project\Main.cpp(1401,38): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Youssef\source\repos\SP-Project\Main.cpp(1416,24): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Youssef\source\repos\SP-Project\Main.cpp(1420,24): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Youssef\source\repos\SP-Project\Main.cpp(1430,41): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Youssef\source\repos\SP-Project\Main.cpp(1486,60): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Youssef\source\repos\SP-Project\Main.cpp(1487,65): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Youssef\source\repos\SP-Project\Main.cpp(1491,40): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Youssef\source\repos\SP-Project\Main.cpp(1492,45): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Youssef\source\repos\SP-Project\Main.cpp(1493,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Youssef\source\repos\SP-Project\Main.cpp(1495,39): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Youssef\source\repos\SP-Project\Main.cpp(1504,26): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Youssef\source\repos\SP-Project\Main.cpp(1575,59): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Youssef\source\repos\SP-Project\Main.cpp(647,13): warning C4101: 'retry': unreferenced local variable
+C:\Users\Youssef\source\repos\SP-Project\Main.cpp(242,6): warning C4101: 'pauseCt': unreferenced local variable
+  Menu.cpp
+C:\Users\Youssef\source\repos\SP-Project\Menu.cpp(5,38): warning C4390: ';': empty controlled statement found; is this the intent?
+  Platform.cpp
+  Player.cpp
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 341 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  Project.vcxproj -> C:\Users\Youssef\source\repos\SP-Project\Release\Project.exe
